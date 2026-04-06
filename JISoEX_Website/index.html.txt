@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JI-SoEX | JRB iStruct</title>
+</head>
+<body>
+    <h1>Welcome to JI-SoEX</h1>
+    <p>Automated Structural Design Extraction.</p>
+    <a href="#">Download Latest Version</a>
+</body>
+</html>
